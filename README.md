@@ -2,7 +2,7 @@
 
 I am keep a record of quick functions in bash that can be used to improve productivity and reduce time in doing some busy work.
 
-# List of Bash Aliases/Function with their uses
+# List of Bash Aliases/Functions with their uses
 
 * `Rmd file.Rmd`
 
